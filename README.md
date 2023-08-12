@@ -23,3 +23,9 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 * (Question 11) Number of sentences printed: 1 pt
 * (Question 12) Thoughtful answer based on reported polarity scores: 1 pt
 * (Question 13) Thoughtful answer based on summaries: 1 pt
+
+### Project Summary:
+
+Summarize what your project does: showing the lyrics of Lady Gaga songs
+Summarize the skills your project demonstrates: pulling information from a civ file and saved it as a .txt and .json files. 
+
